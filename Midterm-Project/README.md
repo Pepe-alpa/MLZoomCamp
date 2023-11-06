@@ -1,4 +1,4 @@
-# *Status of Cirrhosis ilness*
+# *Status of Cirrhosis Desease*
 
 ## Problem description
 Liver cirrhosis is a chronic and progressive medical condition characterized by the scarring of liver tissue, which impairs liver function. It can be caused by various factors, including chronic liver diseases (e.g., hepatitis and fatty liver disease), excessive alcohol consumption, and other underlying health conditions. Liver cirrhosis can lead to serious complications and, in some cases, requires liver transplantation.
