@@ -37,17 +37,21 @@ Below is a brief description of the variables that make up the dataset.
 | CALC           | Consumption of alcohol.      |
 | MTRANS  | Transportation used.                                                                        |
 | NObeyesdad      | Obesity level deducted. This is the target variable.                                                                      |
-                     |
 
 ## Obesity level deducted. The target variable 
 
 This variable consists of 7 classes, corresponding to different levels of obesity. According to the body mass index, these levels are determined as follows:
 
 •Underweight Less than 18.5 (Corresponding to level 0 in the model's output)
+
 •Normal 18.5 to 24.9 (Corresponding to level 1 in the model's output)
+
 •Overweight 25.0 to 29.9 (Corresponding to level 5 in the model's output)
+
 •Obesity I 30.0 to 34.9 (Corresponding to level 2 in the model's output)
+
 •Obesity II 35.0 to 39.9 (Corresponding to level 3 in the model's output)
+
 •Obesity III Higher than 40 (Corresponding to level 4 in the model's output)
 
 However, the dataset includes one more level, corresponding to level II of overweight. (Corresponding to level 6 in the model's output)
